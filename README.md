@@ -16,4 +16,4 @@ ML model built during AI and ML course - 85% Accuracy
 Python | SQL | Java | Pandas | NumPy | GitHub | Machine Learning | Data Structures | CyberSecurity  
 
 #👩‍💻 About Me
-BCA Student | Computer Science Enthusiast | GitHub: github.com/sanjana-dulla/Sanjana-10
+MCA Student | Computer Science Enthusiast | GitHub: github.com/sanjana-dulla/Sanjana-10
